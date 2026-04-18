@@ -1,0 +1,346 @@
+{
+  "number": 80,
+  "name": "سُورَةُ عَبَسَ",
+  "englishName": "Abasa",
+  "englishNameTranslation": "He frowned",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 42,
+  "ayats": [
+    {
+      "number": 5759,
+      "numberInSurah": 1,
+      "juz": 30,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ عَبَسَ وَتَوَلَّىٰٓ",
+      "en": "The Prophet frowned and turned away",
+      "bn": "তিনি ভ্রূকুঞ্চিত করলেন এবং মুখ ফিরিয়ে নিলেন।"
+    },
+    {
+      "number": 5760,
+      "numberInSurah": 2,
+      "juz": 30,
+      "text": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+      "en": "Because there came to him the blind man, [interrupting].",
+      "bn": "কারণ, তাঁর কাছে এক অন্ধ আগমন করল।"
+    },
+    {
+      "number": 5761,
+      "numberInSurah": 3,
+      "juz": 30,
+      "text": "وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ",
+      "en": "But what would make you perceive, [O Muhammad], that perhaps he might be purified",
+      "bn": "আপনি কি জানেন, সে হয়তো পরিশুদ্ধ হত,"
+    },
+    {
+      "number": 5762,
+      "numberInSurah": 4,
+      "juz": 30,
+      "text": "أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ",
+      "en": "Or be reminded and the remembrance would benefit him?",
+      "bn": "অথবা উপদেশ গ্রহণ করতো এবং উপদেশ তার উপকার হত।"
+    },
+    {
+      "number": 5763,
+      "numberInSurah": 5,
+      "juz": 30,
+      "text": "أَمَّا مَنِ ٱسْتَغْنَىٰ",
+      "en": "As for he who thinks himself without need,",
+      "bn": "পরন্তু যে বেপরোয়া,"
+    },
+    {
+      "number": 5764,
+      "numberInSurah": 6,
+      "juz": 30,
+      "text": "فَأَنتَ لَهُۥ تَصَدَّىٰ",
+      "en": "To him you give attention.",
+      "bn": "আপনি তার চিন্তায় মশগুল।"
+    },
+    {
+      "number": 5765,
+      "numberInSurah": 7,
+      "juz": 30,
+      "text": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
+      "en": "And not upon you [is any blame] if he will not be purified.",
+      "bn": "সে শুদ্ধ না হলে আপনার কোন দোষ নেই।"
+    },
+    {
+      "number": 5766,
+      "numberInSurah": 8,
+      "juz": 30,
+      "text": "وَأَمَّا مَن جَآءَكَ يَسْعَىٰ",
+      "en": "But as for he who came to you striving [for knowledge]",
+      "bn": "যে আপনার কাছে দৌড়ে আসলো"
+    },
+    {
+      "number": 5767,
+      "numberInSurah": 9,
+      "juz": 30,
+      "text": "وَهُوَ يَخْشَىٰ",
+      "en": "While he fears [Allah],",
+      "bn": "এমতাবস্থায় যে, সে ভয় করে,"
+    },
+    {
+      "number": 5768,
+      "numberInSurah": 10,
+      "juz": 30,
+      "text": "فَأَنتَ عَنْهُ تَلَهَّىٰ",
+      "en": "From him you are distracted.",
+      "bn": "আপনি তাকে অবজ্ঞা করলেন।"
+    },
+    {
+      "number": 5769,
+      "numberInSurah": 11,
+      "juz": 30,
+      "text": "كَلَّآ إِنَّهَا تَذْكِرَةٌۭ",
+      "en": "No! Indeed, these verses are a reminder;",
+      "bn": "কখনও এরূপ করবেন না, এটা উপদেশবানী।"
+    },
+    {
+      "number": 5770,
+      "numberInSurah": 12,
+      "juz": 30,
+      "text": "فَمَن شَآءَ ذَكَرَهُۥ",
+      "en": "So whoever wills may remember it.",
+      "bn": "অতএব, যে ইচ্ছা করবে, সে একে গ্রহণ করবে।"
+    },
+    {
+      "number": 5771,
+      "numberInSurah": 13,
+      "juz": 30,
+      "text": "فِى صُحُفٍۢ مُّكَرَّمَةٍۢ",
+      "en": "[It is recorded] in honored sheets,",
+      "bn": "এটা লিখিত আছে সম্মানিত,"
+    },
+    {
+      "number": 5772,
+      "numberInSurah": 14,
+      "juz": 30,
+      "text": "مَّرْفُوعَةٍۢ مُّطَهَّرَةٍۭ",
+      "en": "Exalted and purified,",
+      "bn": "উচ্চ পবিত্র পত্রসমূহে,"
+    },
+    {
+      "number": 5773,
+      "numberInSurah": 15,
+      "juz": 30,
+      "text": "بِأَيْدِى سَفَرَةٍۢ",
+      "en": "[Carried] by the hands of messenger-angels,",
+      "bn": "লিপিকারের হস্তে,"
+    },
+    {
+      "number": 5774,
+      "numberInSurah": 16,
+      "juz": 30,
+      "text": "كِرَامٍۭ بَرَرَةٍۢ",
+      "en": "Noble and dutiful.",
+      "bn": "যারা মহৎ, পূত চরিত্র।"
+    },
+    {
+      "number": 5775,
+      "numberInSurah": 17,
+      "juz": 30,
+      "text": "قُتِلَ ٱلْإِنسَٰنُ مَآ أَكْفَرَهُۥ",
+      "en": "Cursed is man; how disbelieving is he.",
+      "bn": "মানুষ ধ্বংস হোক, সে কত অকৃতজ্ঞ!"
+    },
+    {
+      "number": 5776,
+      "numberInSurah": 18,
+      "juz": 30,
+      "text": "مِنْ أَىِّ شَىْءٍ خَلَقَهُۥ",
+      "en": "From what substance did He create him?",
+      "bn": "তিনি তাকে কি বস্তু থেকে সৃষ্টি করেছেন?"
+    },
+    {
+      "number": 5777,
+      "numberInSurah": 19,
+      "juz": 30,
+      "text": "مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ",
+      "en": "From a sperm-drop He created him and destined for him;",
+      "bn": "শুক্র থেকে তাকে সৃষ্টি করেছেন, অতঃপর তাকে সুপরিমিত করেছেন।"
+    },
+    {
+      "number": 5778,
+      "numberInSurah": 20,
+      "juz": 30,
+      "text": "ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ",
+      "en": "Then He eased the way for him;",
+      "bn": "অতঃপর তার পথ সহজ করেছেন,"
+    },
+    {
+      "number": 5779,
+      "numberInSurah": 21,
+      "juz": 30,
+      "text": "ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ",
+      "en": "Then He causes his death and provides a grave for him.",
+      "bn": "অতঃপর তার মৃত্যু ঘটান ও কবরস্থ করেন তাকে।"
+    },
+    {
+      "number": 5780,
+      "numberInSurah": 22,
+      "juz": 30,
+      "text": "ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ",
+      "en": "Then when He wills, He will resurrect him.",
+      "bn": "এরপর যখন ইচ্ছা করবেন তখন তাকে পুনরুজ্জীবিত করবেন।"
+    },
+    {
+      "number": 5781,
+      "numberInSurah": 23,
+      "juz": 30,
+      "text": "كَلَّا لَمَّا يَقْضِ مَآ أَمَرَهُۥ",
+      "en": "No! Man has not yet accomplished what He commanded him.",
+      "bn": "সে কখনও কৃতজ্ঞ হয়নি, তিনি তাকে যা আদেশ করেছেন, সে তা পূর্ণ করেনি।"
+    },
+    {
+      "number": 5782,
+      "numberInSurah": 24,
+      "juz": 30,
+      "text": "فَلْيَنظُرِ ٱلْإِنسَٰنُ إِلَىٰ طَعَامِهِۦٓ",
+      "en": "Then let mankind look at his food -",
+      "bn": "মানুষ তার খাদ্যের প্রতি লক্ষ্য করুক,"
+    },
+    {
+      "number": 5783,
+      "numberInSurah": 25,
+      "juz": 30,
+      "text": "أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّۭا",
+      "en": "How We poured down water in torrents,",
+      "bn": "আমি আশ্চর্য উপায়ে পানি বর্ষণ করেছি,"
+    },
+    {
+      "number": 5784,
+      "numberInSurah": 26,
+      "juz": 30,
+      "text": "ثُمَّ شَقَقْنَا ٱلْأَرْضَ شَقًّۭا",
+      "en": "Then We broke open the earth, splitting [it with sprouts],",
+      "bn": "এরপর আমি ভূমিকে বিদীর্ণ করেছি,"
+    },
+    {
+      "number": 5785,
+      "numberInSurah": 27,
+      "juz": 30,
+      "text": "فَأَنۢبَتْنَا فِيهَا حَبًّۭا",
+      "en": "And caused to grow within it grain",
+      "bn": "অতঃপর তাতে উৎপন্ন করেছি শস্য,"
+    },
+    {
+      "number": 5786,
+      "numberInSurah": 28,
+      "juz": 30,
+      "text": "وَعِنَبًۭا وَقَضْبًۭا",
+      "en": "And grapes and herbage",
+      "bn": "আঙ্গুর, শাক-সব্জি,"
+    },
+    {
+      "number": 5787,
+      "numberInSurah": 29,
+      "juz": 30,
+      "text": "وَزَيْتُونًۭا وَنَخْلًۭا",
+      "en": "And olive and palm trees",
+      "bn": "যয়তুন, খর্জূর,"
+    },
+    {
+      "number": 5788,
+      "numberInSurah": 30,
+      "juz": 30,
+      "text": "وَحَدَآئِقَ غُلْبًۭا",
+      "en": "And gardens of dense shrubbery",
+      "bn": "ঘন উদ্যান,"
+    },
+    {
+      "number": 5789,
+      "numberInSurah": 31,
+      "juz": 30,
+      "text": "وَفَٰكِهَةًۭ وَأَبًّۭا",
+      "en": "And fruit and grass -",
+      "bn": "ফল এবং ঘাস"
+    },
+    {
+      "number": 5790,
+      "numberInSurah": 32,
+      "juz": 30,
+      "text": "مَّتَٰعًۭا لَّكُمْ وَلِأَنْعَٰمِكُمْ",
+      "en": "[As] enjoyment for you and your grazing livestock.",
+      "bn": "তোমাদেরও তোমাদের চতুস্পদ জন্তুদের উপাকারার্থে।"
+    },
+    {
+      "number": 5791,
+      "numberInSurah": 33,
+      "juz": 30,
+      "text": "فَإِذَا جَآءَتِ ٱلصَّآخَّةُ",
+      "en": "But when there comes the Deafening Blast",
+      "bn": "অতঃপর যেদিন কর্ণবিদারক নাদ আসবে,"
+    },
+    {
+      "number": 5792,
+      "numberInSurah": 34,
+      "juz": 30,
+      "text": "يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ",
+      "en": "On the Day a man will flee from his brother",
+      "bn": "সেদিন পলায়ন করবে মানুষ তার ভ্রাতার কাছ থেকে,"
+    },
+    {
+      "number": 5793,
+      "numberInSurah": 35,
+      "juz": 30,
+      "text": "وَأُمِّهِۦ وَأَبِيهِ",
+      "en": "And his mother and his father",
+      "bn": "তার মাতা, তার পিতা,"
+    },
+    {
+      "number": 5794,
+      "numberInSurah": 36,
+      "juz": 30,
+      "text": "وَصَٰحِبَتِهِۦ وَبَنِيهِ",
+      "en": "And his wife and his children,",
+      "bn": "তার পত্নী ও তার সন্তানদের কাছ থেকে।"
+    },
+    {
+      "number": 5795,
+      "numberInSurah": 37,
+      "juz": 30,
+      "text": "لِكُلِّ ٱمْرِئٍۢ مِّنْهُمْ يَوْمَئِذٍۢ شَأْنٌۭ يُغْنِيهِ",
+      "en": "For every man, that Day, will be a matter adequate for him.",
+      "bn": "সেদিন প্রত্যেকেরই নিজের এক চিন্তা থাকবে, যা তাকে ব্যতিব্যস্ত করে রাখবে।"
+    },
+    {
+      "number": 5796,
+      "numberInSurah": 38,
+      "juz": 30,
+      "text": "وُجُوهٌۭ يَوْمَئِذٍۢ مُّسْفِرَةٌۭ",
+      "en": "[Some] faces, that Day, will be bright -",
+      "bn": "অনেক মুখমন্ডল সেদিন হবে উজ্জ্বল,"
+    },
+    {
+      "number": 5797,
+      "numberInSurah": 39,
+      "juz": 30,
+      "text": "ضَاحِكَةٌۭ مُّسْتَبْشِرَةٌۭ",
+      "en": "Laughing, rejoicing at good news.",
+      "bn": "সহাস্য ও প্রফুল্ল।"
+    },
+    {
+      "number": 5798,
+      "numberInSurah": 40,
+      "juz": 30,
+      "text": "وَوُجُوهٌۭ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌۭ",
+      "en": "And [other] faces, that Day, will have upon them dust.",
+      "bn": "এবং অনেক মুখমন্ডল সেদিন হবে ধুলি ধূসরিত।"
+    },
+    {
+      "number": 5799,
+      "numberInSurah": 41,
+      "juz": 30,
+      "text": "تَرْهَقُهَا قَتَرَةٌ",
+      "en": "Blackness will cover them.",
+      "bn": "তাদেরকে কালিমা আচ্ছন্ন করে রাখবে।"
+    },
+    {
+      "number": 5800,
+      "numberInSurah": 42,
+      "juz": 30,
+      "text": "أُو۟لَٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ",
+      "en": "Those are the disbelievers, the wicked ones.",
+      "bn": "তারাই কাফের পাপিষ্ঠের দল।"
+    }
+  ]
+}

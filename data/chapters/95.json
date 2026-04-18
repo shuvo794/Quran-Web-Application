@@ -1,0 +1,74 @@
+{
+  "number": 95,
+  "name": "سُورَةُ التِّينِ",
+  "englishName": "At-Tin",
+  "englishNameTranslation": "The Fig",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 8,
+  "ayats": [
+    {
+      "number": 6099,
+      "numberInSurah": 1,
+      "juz": 30,
+      "text": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلتِّينِ وَٱلزَّيْتُونِ",
+      "en": "By the fig and the olive",
+      "bn": "শপথ আঞ্জীর (ডুমুর) ও যয়তুনের,"
+    },
+    {
+      "number": 6100,
+      "numberInSurah": 2,
+      "juz": 30,
+      "text": "وَطُورِ سِينِينَ",
+      "en": "And [by] Mount Sinai",
+      "bn": "এবং সিনাই প্রান্তরস্থ তূর পর্বতের,"
+    },
+    {
+      "number": 6101,
+      "numberInSurah": 3,
+      "juz": 30,
+      "text": "وَهَٰذَا ٱلْبَلَدِ ٱلْأَمِينِ",
+      "en": "And [by] this secure city [Makkah],",
+      "bn": "এবং এই নিরাপদ নগরীর।"
+    },
+    {
+      "number": 6102,
+      "numberInSurah": 4,
+      "juz": 30,
+      "text": "لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍۢ",
+      "en": "We have certainly created man in the best of stature;",
+      "bn": "আমি সৃষ্টি করেছি মানুষকে সুন্দরতর অবয়বে।"
+    },
+    {
+      "number": 6103,
+      "numberInSurah": 5,
+      "juz": 30,
+      "text": "ثُمَّ رَدَدْنَٰهُ أَسْفَلَ سَٰفِلِينَ",
+      "en": "Then We return him to the lowest of the low,",
+      "bn": "অতঃপর তাকে ফিরিয়ে দিয়েছি নীচ থেকে নীচে।"
+    },
+    {
+      "number": 6104,
+      "numberInSurah": 6,
+      "juz": 30,
+      "text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۢ",
+      "en": "Except for those who believe and do righteous deeds, for they will have a reward uninterrupted.",
+      "bn": "কিন্তু যারা বিশ্বাস স্থাপন করেছে ও সৎকর্ম করেছে, তাদের জন্যে রয়েছে অশেষ পুরস্কার।"
+    },
+    {
+      "number": 6105,
+      "numberInSurah": 7,
+      "juz": 30,
+      "text": "فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ",
+      "en": "So what yet causes you to deny the Recompense?",
+      "bn": "অতঃপর কেন তুমি অবিশ্বাস করছ কেয়ামতকে?"
+    },
+    {
+      "number": 6106,
+      "numberInSurah": 8,
+      "juz": 30,
+      "text": "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَٰكِمِينَ",
+      "en": "Is not Allah the most just of judges?",
+      "bn": "আল্লাহ কি বিচারকদের মধ্যে শ্রেষ্টতম বিচারক নন?"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "number": 101,
+  "name": "سُورَةُ القَارِعَةِ",
+  "englishName": "Al-Qaari'a",
+  "englishNameTranslation": "The Calamity",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 11,
+  "ayats": [
+    {
+      "number": 6158,
+      "numberInSurah": 1,
+      "juz": 30,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ",
+      "en": "The Striking Calamity -",
+      "bn": "করাঘাতকারী,"
+    },
+    {
+      "number": 6159,
+      "numberInSurah": 2,
+      "juz": 30,
+      "text": "مَا ٱلْقَارِعَةُ",
+      "en": "What is the Striking Calamity?",
+      "bn": "করাঘাতকারী কি?"
+    },
+    {
+      "number": 6160,
+      "numberInSurah": 3,
+      "juz": 30,
+      "text": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+      "en": "And what can make you know what is the Striking Calamity?",
+      "bn": "করাঘাতকারী সম্পর্কে আপনি কি জানেন ?"
+    },
+    {
+      "number": 6161,
+      "numberInSurah": 4,
+      "juz": 30,
+      "text": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+      "en": "It is the Day when people will be like moths, dispersed,",
+      "bn": "যেদিন মানুষ হবে বিক্ষিপ্ত পতংগের মত"
+    },
+    {
+      "number": 6162,
+      "numberInSurah": 5,
+      "juz": 30,
+      "text": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+      "en": "And the mountains will be like wool, fluffed up.",
+      "bn": "এবং পর্বতমালা হবে ধুনিত রঙ্গীন পশমের মত।"
+    },
+    {
+      "number": 6163,
+      "numberInSurah": 6,
+      "juz": 30,
+      "text": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+      "en": "Then as for one whose scales are heavy [with good deeds],",
+      "bn": "অতএব যার পাল্লা ভারী হবে,"
+    },
+    {
+      "number": 6164,
+      "numberInSurah": 7,
+      "juz": 30,
+      "text": "فَهُوَ فِى عِيشَةٍۢ رَّاضِيَةٍۢ",
+      "en": "He will be in a pleasant life.",
+      "bn": "সে সুখীজীবন যাপন করবে।"
+    },
+    {
+      "number": 6165,
+      "numberInSurah": 8,
+      "juz": 30,
+      "text": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+      "en": "But as for one whose scales are light,",
+      "bn": "আর যার পাল্লা হালকা হবে,"
+    },
+    {
+      "number": 6166,
+      "numberInSurah": 9,
+      "juz": 30,
+      "text": "فَأُمُّهُۥ هَاوِيَةٌۭ",
+      "en": "His refuge will be an abyss.",
+      "bn": "তার ঠিকানা হবে হাবিয়া।"
+    },
+    {
+      "number": 6167,
+      "numberInSurah": 10,
+      "juz": 30,
+      "text": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+      "en": "And what can make you know what that is?",
+      "bn": "আপনি জানেন তা কি?"
+    },
+    {
+      "number": 6168,
+      "numberInSurah": 11,
+      "juz": 30,
+      "text": "نَارٌ حَامِيَةٌۢ",
+      "en": "It is a Fire, intensely hot.",
+      "bn": "প্রজ্জ্বলিত অগ্নি!"
+    }
+  ]
+}

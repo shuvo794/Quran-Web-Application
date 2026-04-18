@@ -1,0 +1,50 @@
+{
+  "number": 113,
+  "name": "سُورَةُ الفَلَقِ",
+  "englishName": "Al-Falaq",
+  "englishNameTranslation": "The Dawn",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 5,
+  "ayats": [
+    {
+      "number": 6226,
+      "numberInSurah": 1,
+      "juz": 30,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+      "en": "Say, \"I seek refuge in the Lord of daybreak",
+      "bn": "বলুন, আমি আশ্রয় গ্রহণ করছি প্রভাতের পালনকর্তার,"
+    },
+    {
+      "number": 6227,
+      "numberInSurah": 2,
+      "juz": 30,
+      "text": "مِن شَرِّ مَا خَلَقَ",
+      "en": "From the evil of that which He created",
+      "bn": "তিনি যা সৃষ্টি করেছেন, তার অনিষ্ট থেকে,"
+    },
+    {
+      "number": 6228,
+      "numberInSurah": 3,
+      "juz": 30,
+      "text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "en": "And from the evil of darkness when it settles",
+      "bn": "অন্ধকার রাত্রির অনিষ্ট থেকে, যখন তা সমাগত হয়,"
+    },
+    {
+      "number": 6229,
+      "numberInSurah": 4,
+      "juz": 30,
+      "text": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ",
+      "en": "And from the evil of the blowers in knots",
+      "bn": "গ্রন্থিতে ফুঁৎকার দিয়ে জাদুকারিনীদের অনিষ্ট থেকে"
+    },
+    {
+      "number": 6230,
+      "numberInSurah": 5,
+      "juz": 30,
+      "text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "en": "And from the evil of an envier when he envies.\"",
+      "bn": "এবং হিংসুকের অনিষ্ট থেকে যখন সে হিংসা করে।"
+    }
+  ]
+}

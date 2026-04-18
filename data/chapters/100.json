@@ -1,0 +1,98 @@
+{
+  "number": 100,
+  "name": "سُورَةُ العَادِيَاتِ",
+  "englishName": "Al-Aadiyaat",
+  "englishNameTranslation": "The Chargers",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 11,
+  "ayats": [
+    {
+      "number": 6147,
+      "numberInSurah": 1,
+      "juz": 30,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْعَٰدِيَٰتِ ضَبْحًۭا",
+      "en": "By the racers, panting,",
+      "bn": "শপথ উর্ধ্বশ্বাসে চলমান অশ্বসমূহের,"
+    },
+    {
+      "number": 6148,
+      "numberInSurah": 2,
+      "juz": 30,
+      "text": "فَٱلْمُورِيَٰتِ قَدْحًۭا",
+      "en": "And the producers of sparks [when] striking",
+      "bn": "অতঃপর ক্ষুরাঘাতে অগ্নিবিচ্ছুরক অশ্বসমূহের"
+    },
+    {
+      "number": 6149,
+      "numberInSurah": 3,
+      "juz": 30,
+      "text": "فَٱلْمُغِيرَٰتِ صُبْحًۭا",
+      "en": "And the chargers at dawn,",
+      "bn": "অতঃপর প্রভাতকালে আক্রমণকারী অশ্বসমূহের"
+    },
+    {
+      "number": 6150,
+      "numberInSurah": 4,
+      "juz": 30,
+      "text": "فَأَثَرْنَ بِهِۦ نَقْعًۭا",
+      "en": "Stirring up thereby [clouds of] dust,",
+      "bn": "ও যারা সে সময়ে ধুলি উৎক্ষিপ্ত করে"
+    },
+    {
+      "number": 6151,
+      "numberInSurah": 5,
+      "juz": 30,
+      "text": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+      "en": "Arriving thereby in the center collectively,",
+      "bn": "অতঃপর যারা শক্রদলের অভ্যন্তরে ঢুকে পড়ে-"
+    },
+    {
+      "number": 6152,
+      "numberInSurah": 6,
+      "juz": 30,
+      "text": "إِنَّ ٱلْإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٌۭ",
+      "en": "Indeed mankind, to his Lord, is ungrateful.",
+      "bn": "নিশ্চয় মানুষ তার পালনকর্তার প্রতি অকৃতজ্ঞ।"
+    },
+    {
+      "number": 6153,
+      "numberInSurah": 7,
+      "juz": 30,
+      "text": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌۭ",
+      "en": "And indeed, he is to that a witness.",
+      "bn": "এবং সে অবশ্য এ বিষয়ে অবহিত"
+    },
+    {
+      "number": 6154,
+      "numberInSurah": 8,
+      "juz": 30,
+      "text": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+      "en": "And indeed he is, in love of wealth, intense.",
+      "bn": "এবং সে নিশ্চিতই ধন-সম্পদের ভালবাসায় মত্ত।"
+    },
+    {
+      "number": 6155,
+      "numberInSurah": 9,
+      "juz": 30,
+      "text": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+      "en": "But does he not know that when the contents of the graves are scattered",
+      "bn": "সে কি জানে না, যখন কবরে যা আছে, তা উত্থিত হবে"
+    },
+    {
+      "number": 6156,
+      "numberInSurah": 10,
+      "juz": 30,
+      "text": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+      "en": "And that within the breasts is obtained,",
+      "bn": "এবং অন্তরে যা আছে, তা অর্জন করা হবে?"
+    },
+    {
+      "number": 6157,
+      "numberInSurah": 11,
+      "juz": 30,
+      "text": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍۢ لَّخَبِيرٌۢ",
+      "en": "Indeed, their Lord with them, that Day, is [fully] Acquainted.",
+      "bn": "সেদিন তাদের কি হবে, সে সম্পর্কে তাদের পালনকর্তা সবিশেষ জ্ঞাত।"
+    }
+  ]
+}

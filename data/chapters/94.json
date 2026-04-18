@@ -1,0 +1,74 @@
+{
+  "number": 94,
+  "name": "سُورَةُ الشَّرۡحِ",
+  "englishName": "Ash-Sharh",
+  "englishNameTranslation": "The Consolation",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 8,
+  "ayats": [
+    {
+      "number": 6091,
+      "numberInSurah": 1,
+      "juz": 30,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "en": "Did We not expand for you, [O Muhammad], your breast?",
+      "bn": "আমি কি আপনার বক্ষ উম্মুক্ত করে দেইনি?"
+    },
+    {
+      "number": 6092,
+      "numberInSurah": 2,
+      "juz": 30,
+      "text": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "en": "And We removed from you your burden",
+      "bn": "আমি লাঘব করেছি আপনার বোঝা,"
+    },
+    {
+      "number": 6093,
+      "numberInSurah": 3,
+      "juz": 30,
+      "text": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+      "en": "Which had weighed upon your back",
+      "bn": "যা ছিল আপনার জন্যে অতিশয় দুঃসহ।"
+    },
+    {
+      "number": 6094,
+      "numberInSurah": 4,
+      "juz": 30,
+      "text": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "en": "And raised high for you your repute.",
+      "bn": "আমি আপনার আলোচনাকে সমুচ্চ করেছি।"
+    },
+    {
+      "number": 6095,
+      "numberInSurah": 5,
+      "juz": 30,
+      "text": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "en": "For indeed, with hardship [will be] ease.",
+      "bn": "নিশ্চয় কষ্টের সাথে স্বস্তি রয়েছে।"
+    },
+    {
+      "number": 6096,
+      "numberInSurah": 6,
+      "juz": 30,
+      "text": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًۭا",
+      "en": "Indeed, with hardship [will be] ease.",
+      "bn": "নিশ্চয় কষ্টের সাথে স্বস্তি রয়েছে।"
+    },
+    {
+      "number": 6097,
+      "numberInSurah": 7,
+      "juz": 30,
+      "text": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+      "en": "So when you have finished [your duties], then stand up [for worship].",
+      "bn": "অতএব, যখন অবসর পান পরিশ্রম করুন।"
+    },
+    {
+      "number": 6098,
+      "numberInSurah": 8,
+      "juz": 30,
+      "text": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+      "en": "And to your Lord direct [your] longing.",
+      "bn": "এবং আপনার পালনকর্তার প্রতি মনোনিবেশ করুন।"
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "number": 74,
+  "name": "سُورَةُ المُدَّثِّرِ",
+  "englishName": "Al-Muddaththir",
+  "englishNameTranslation": "The Cloaked One",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 56,
+  "ayats": [
+    {
+      "number": 5496,
+      "numberInSurah": 1,
+      "juz": 29,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلْمُدَّثِّرُ",
+      "en": "O you who covers himself [with a garment],",
+      "bn": "হে চাদরাবৃত!"
+    },
+    {
+      "number": 5497,
+      "numberInSurah": 2,
+      "juz": 29,
+      "text": "قُمْ فَأَنذِرْ",
+      "en": "Arise and warn",
+      "bn": "উঠুন, সতর্ক করুন,"
+    },
+    {
+      "number": 5498,
+      "numberInSurah": 3,
+      "juz": 29,
+      "text": "وَرَبَّكَ فَكَبِّرْ",
+      "en": "And your Lord glorify",
+      "bn": "আপন পালনকর্তার মাহাত্ম্য ঘোষনা করুন,"
+    },
+    {
+      "number": 5499,
+      "numberInSurah": 4,
+      "juz": 29,
+      "text": "وَثِيَابَكَ فَطَهِّرْ",
+      "en": "And your clothing purify",
+      "bn": "আপন পোশাক পবিত্র করুন"
+    },
+    {
+      "number": 5500,
+      "numberInSurah": 5,
+      "juz": 29,
+      "text": "وَٱلرُّجْزَ فَٱهْجُرْ",
+      "en": "And uncleanliness avoid",
+      "bn": "এবং অপবিত্রতা থেকে দূরে থাকুন।"
+    },
+    {
+      "number": 5501,
+      "numberInSurah": 6,
+      "juz": 29,
+      "text": "وَلَا تَمْنُن تَسْتَكْثِرُ",
+      "en": "And do not confer favor to acquire more",
+      "bn": "অধিক প্রতিদানের আশায় অন্যকে কিছু দিবেন না।"
+    },
+    {
+      "number": 5502,
+      "numberInSurah": 7,
+      "juz": 29,
+      "text": "وَلِرَبِّكَ فَٱصْبِرْ",
+      "en": "But for your Lord be patient.",
+      "bn": "এবং আপনার পালনকর্তার উদ্দেশে সবর করুন।"
+    },
+    {
+      "number": 5503,
+      "numberInSurah": 8,
+      "juz": 29,
+      "text": "فَإِذَا نُقِرَ فِى ٱلنَّاقُورِ",
+      "en": "And when the trumpet is blown,",
+      "bn": "যেদিন শিংগায় ফুঁক দেয়া হবে;"
+    },
+    {
+      "number": 5504,
+      "numberInSurah": 9,
+      "juz": 29,
+      "text": "فَذَٰلِكَ يَوْمَئِذٍۢ يَوْمٌ عَسِيرٌ",
+      "en": "That Day will be a difficult day",
+      "bn": "সেদিন হবে কঠিন দিন,"
+    },
+    {
+      "number": 5505,
+      "numberInSurah": 10,
+      "juz": 29,
+      "text": "عَلَى ٱلْكَٰفِرِينَ غَيْرُ يَسِيرٍۢ",
+      "en": "For the disbelievers - not easy.",
+      "bn": "কাফেরদের জন্যে এটা সহজ নয়।"
+    },
+    {
+      "number": 5506,
+      "numberInSurah": 11,
+      "juz": 29,
+      "text": "ذَرْنِى وَمَنْ خَلَقْتُ وَحِيدًۭا",
+      "en": "Leave Me with the one I created alone",
+      "bn": "যাকে আমি অনন্য করে সৃষ্টি করেছি, তাকে আমার হাতে ছেড়ে দিন।"
+    },
+    {
+      "number": 5507,
+      "numberInSurah": 12,
+      "juz": 29,
+      "text": "وَجَعَلْتُ لَهُۥ مَالًۭا مَّمْدُودًۭا",
+      "en": "And to whom I granted extensive wealth",
+      "bn": "আমি তাকে বিপুল ধন-সম্পদ দিয়েছি।"
+    },
+    {
+      "number": 5508,
+      "numberInSurah": 13,
+      "juz": 29,
+      "text": "وَبَنِينَ شُهُودًۭا",
+      "en": "And children present [with him]",
+      "bn": "এবং সদা সংগী পুত্রবর্গ দিয়েছি,"
+    },
+    {
+      "number": 5509,
+      "numberInSurah": 14,
+      "juz": 29,
+      "text": "وَمَهَّدتُّ لَهُۥ تَمْهِيدًۭا",
+      "en": "And spread [everything] before him, easing [his life].",
+      "bn": "এবং তাকে খুব সচ্ছলতা দিয়েছি।"
+    },
+    {
+      "number": 5510,
+      "numberInSurah": 15,
+      "juz": 29,
+      "text": "ثُمَّ يَطْمَعُ أَنْ أَزِيدَ",
+      "en": "Then he desires that I should add more.",
+      "bn": "এরপরও সে আশা করে যে, আমি তাকে আরও বেশী দেই।"
+    },
+    {
+      "number": 5511,
+      "numberInSurah": 16,
+      "juz": 29,
+      "text": "كَلَّآ ۖ إِنَّهُۥ كَانَ لِءَايَٰتِنَا عَنِيدًۭا",
+      "en": "No! Indeed, he has been toward Our verses obstinate.",
+      "bn": "কখনই নয়! সে আমার নিদর্শনসমূহের বিরুদ্ধাচরণকারী।"
+    },
+    {
+      "number": 5512,
+      "numberInSurah": 17,
+      "juz": 29,
+      "text": "سَأُرْهِقُهُۥ صَعُودًا",
+      "en": "I will cover him with arduous torment.",
+      "bn": "আমি সত্ত্বরই তাকে শাস্তির পাহাড়ে আরোহণ করাব।"
+    },
+    {
+      "number": 5513,
+      "numberInSurah": 18,
+      "juz": 29,
+      "text": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+      "en": "Indeed, he thought and deliberated.",
+      "bn": "সে চিন্তা করেছে এবং মনঃস্থির করেছে,"
+    },
+    {
+      "number": 5514,
+      "numberInSurah": 19,
+      "juz": 29,
+      "text": "فَقُتِلَ كَيْفَ قَدَّرَ",
+      "en": "So may he be destroyed [for] how he deliberated.",
+      "bn": "ধ্বংস হোক সে, কিরূপে সে মনঃস্থির করেছে!"
+    },
+    {
+      "number": 5515,
+      "numberInSurah": 20,
+      "juz": 29,
+      "text": "ثُمَّ قُتِلَ كَيْفَ قَدَّرَ",
+      "en": "Then may he be destroyed [for] how he deliberated.",
+      "bn": "আবার ধ্বংস হোক সে, কিরূপে সে মনঃস্থির করেছে!"
+    },
+    {
+      "number": 5516,
+      "numberInSurah": 21,
+      "juz": 29,
+      "text": "ثُمَّ نَظَرَ",
+      "en": "Then he considered [again];",
+      "bn": "সে আবার দৃষ্টিপাত করেছে,"
+    },
+    {
+      "number": 5517,
+      "numberInSurah": 22,
+      "juz": 29,
+      "text": "ثُمَّ عَبَسَ وَبَسَرَ",
+      "en": "Then he frowned and scowled;",
+      "bn": "অতঃপর সে ভ্রূকুঞ্চিত করেছে ও মুখ বিকৃত করেছে,"
+    },
+    {
+      "number": 5518,
+      "numberInSurah": 23,
+      "juz": 29,
+      "text": "ثُمَّ أَدْبَرَ وَٱسْتَكْبَرَ",
+      "en": "Then he turned back and was arrogant",
+      "bn": "অতঃপর পৃষ্ঠপ্রদশন করেছে ও অহংকার করেছে।"
+    },
+    {
+      "number": 5519,
+      "numberInSurah": 24,
+      "juz": 29,
+      "text": "فَقَالَ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ يُؤْثَرُ",
+      "en": "And said, \"This is not but magic imitated [from others].",
+      "bn": "এরপর বলেছেঃ এতো লোক পরস্পরায় প্রাপ্ত জাদু বৈ নয়,"
+    },
+    {
+      "number": 5520,
+      "numberInSurah": 25,
+      "juz": 29,
+      "text": "إِنْ هَٰذَآ إِلَّا قَوْلُ ٱلْبَشَرِ",
+      "en": "This is not but the word of a human being.\"",
+      "bn": "এতো মানুষের উক্তি বৈ নয়।"
+    },
+    {
+      "number": 5521,
+      "numberInSurah": 26,
+      "juz": 29,
+      "text": "سَأُصْلِيهِ سَقَرَ",
+      "en": "I will drive him into Saqar.",
+      "bn": "আমি তাকে দাখিল করব অগ্নিতে।"
+    },
+    {
+      "number": 5522,
+      "numberInSurah": 27,
+      "juz": 29,
+      "text": "وَمَآ أَدْرَىٰكَ مَا سَقَرُ",
+      "en": "And what can make you know what is Saqar?",
+      "bn": "আপনি কি বুঝলেন অগ্নি কি?"
+    },
+    {
+      "number": 5523,
+      "numberInSurah": 28,
+      "juz": 29,
+      "text": "لَا تُبْقِى وَلَا تَذَرُ",
+      "en": "It lets nothing remain and leaves nothing [unburned],",
+      "bn": "এটা অক্ষত রাখবে না এবং ছাড়বেও না।"
+    },
+    {
+      "number": 5524,
+      "numberInSurah": 29,
+      "juz": 29,
+      "text": "لَوَّاحَةٌۭ لِّلْبَشَرِ",
+      "en": "Blackening the skins.",
+      "bn": "মানুষকে দগ্ধ করবে।"
+    },
+    {
+      "number": 5525,
+      "numberInSurah": 30,
+      "juz": 29,
+      "text": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+      "en": "Over it are nineteen [angels].",
+      "bn": "এর উপর নিয়োজিত আছে উনিশ (ফেরেশতা)।"
+    },
+    {
+      "number": 5526,
+      "numberInSurah": 31,
+      "juz": 29,
+      "text": "وَمَا جَعَلْنَآ أَصْحَٰبَ ٱلنَّارِ إِلَّا مَلَٰٓئِكَةًۭ ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةًۭ لِّلَّذِينَ كَفَرُوا۟ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوٓا۟ إِيمَٰنًۭا ۙ وَلَا يَرْتَابَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَٱلْمُؤْمِنُونَ ۙ وَلِيَقُولَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ وَٱلْكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِىَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ",
+      "en": "And We have not made the keepers of the Fire except angels. And We have not made their number except as a trial for those who disbelieve - that those who were given the Scripture will be convinced and those who have believed will increase in faith and those who were given the Scripture and the believers will not doubt and that those in whose hearts is hypocrisy and the disbelievers will say, \"What does Allah intend by this as an example?\" Thus does Allah leave astray whom He wills and guides whom He wills. And none knows the soldiers of your Lord except Him. And mention of the Fire is not but a reminder to humanity.",
+      "bn": "আমি জাহান্নামের তত্ত্বাবধায়ক ফেরেশতাই রেখেছি। আমি কাফেরদেরকে পরীক্ষা করার জন্যেই তার এই সংখ্যা করেছি-যাতে কিতাবীরা দৃঢ়বিশ্বাসী হয়, মুমিনদের ঈমান বৃদ্ধি পায় এবং কিতাবীরা ও মুমিনগণ সন্দেহ পোষণ না করে এবং যাতে যাদের অন্তরে রোগ আছে, তারা এবং কাফেররা বলে যে, আল্লাহ এর দ্বারা কি বোঝাতে চেয়েছেন। এমনিভাবে আল্লাহ যাকে ইচ্ছা পথভ্রষ্ট করেন এবং যাকে ইচ্ছা সৎপথে চালান। আপনার পালনকর্তার বাহিনী সম্পর্কে একমাত্র তিনিই জানেন এটা তো মানুষের জন্যে উপদেশ বৈ নয়।"
+    },
+    {
+      "number": 5527,
+      "numberInSurah": 32,
+      "juz": 29,
+      "text": "كَلَّا وَٱلْقَمَرِ",
+      "en": "No! By the moon",
+      "bn": "কখনই নয়। চন্দ্রের শপথ,"
+    },
+    {
+      "number": 5528,
+      "numberInSurah": 33,
+      "juz": 29,
+      "text": "وَٱلَّيْلِ إِذْ أَدْبَرَ",
+      "en": "And [by] the night when it departs",
+      "bn": "শপথ রাত্রির যখন তার অবসান হয়,"
+    },
+    {
+      "number": 5529,
+      "numberInSurah": 34,
+      "juz": 29,
+      "text": "وَٱلصُّبْحِ إِذَآ أَسْفَرَ",
+      "en": "And [by] the morning when it brightens,",
+      "bn": "শপথ প্রভাতকালের যখন তা আলোকোদ্ভাসিত হয়,"
+    },
+    {
+      "number": 5530,
+      "numberInSurah": 35,
+      "juz": 29,
+      "text": "إِنَّهَا لَإِحْدَى ٱلْكُبَرِ",
+      "en": "Indeed, the Fire is of the greatest [afflictions]",
+      "bn": "নিশ্চয় জাহান্নাম গুরুতর বিপদসমূহের অন্যতম,"
+    },
+    {
+      "number": 5531,
+      "numberInSurah": 36,
+      "juz": 29,
+      "text": "نَذِيرًۭا لِّلْبَشَرِ",
+      "en": "As a warning to humanity -",
+      "bn": "মানুষের জন্যে সতর্ককারী।"
+    },
+    {
+      "number": 5532,
+      "numberInSurah": 37,
+      "juz": 29,
+      "text": "لِمَن شَآءَ مِنكُمْ أَن يَتَقَدَّمَ أَوْ يَتَأَخَّرَ",
+      "en": "To whoever wills among you to proceed or stay behind.",
+      "bn": "তোমাদের মধ্যে যে সামনে অগ্রসর হয় অথবা পশ্চাতে থাকে।"
+    },
+    {
+      "number": 5533,
+      "numberInSurah": 38,
+      "juz": 29,
+      "text": "كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ رَهِينَةٌ",
+      "en": "Every soul, for what it has earned, will be retained",
+      "bn": "প্রত্যেক ব্যক্তি তার কৃতকর্মের জন্য দায়ী;"
+    },
+    {
+      "number": 5534,
+      "numberInSurah": 39,
+      "juz": 29,
+      "text": "إِلَّآ أَصْحَٰبَ ٱلْيَمِينِ",
+      "en": "Except the companions of the right,",
+      "bn": "কিন্তু ডানদিকস্থরা,"
+    },
+    {
+      "number": 5535,
+      "numberInSurah": 40,
+      "juz": 29,
+      "text": "فِى جَنَّٰتٍۢ يَتَسَآءَلُونَ",
+      "en": "[Who will be] in gardens, questioning each other",
+      "bn": "তারা থাকবে জান্নাতে এবং পরস্পরে জিজ্ঞাসাবাদ করবে।"
+    },
+    {
+      "number": 5536,
+      "numberInSurah": 41,
+      "juz": 29,
+      "text": "عَنِ ٱلْمُجْرِمِينَ",
+      "en": "About the criminals,",
+      "bn": "অপরাধীদের সম্পর্কে"
+    },
+    {
+      "number": 5537,
+      "numberInSurah": 42,
+      "juz": 29,
+      "text": "مَا سَلَكَكُمْ فِى سَقَرَ",
+      "en": "[And asking them], \"What put you into Saqar?\"",
+      "bn": "বলবেঃ তোমাদেরকে কিসে জাহান্নামে নীত করেছে?"
+    },
+    {
+      "number": 5538,
+      "numberInSurah": 43,
+      "juz": 29,
+      "text": "قَالُوا۟ لَمْ نَكُ مِنَ ٱلْمُصَلِّينَ",
+      "en": "They will say, \"We were not of those who prayed,",
+      "bn": "তারা বলবেঃ আমরা নামায পড়তাম না,"
+    },
+    {
+      "number": 5539,
+      "numberInSurah": 44,
+      "juz": 29,
+      "text": "وَلَمْ نَكُ نُطْعِمُ ٱلْمِسْكِينَ",
+      "en": "Nor did we used to feed the poor.",
+      "bn": "অভাবগ্রস্তকে আহার্য্য দিতাম না,"
+    },
+    {
+      "number": 5540,
+      "numberInSurah": 45,
+      "juz": 29,
+      "text": "وَكُنَّا نَخُوضُ مَعَ ٱلْخَآئِضِينَ",
+      "en": "And we used to enter into vain discourse with those who engaged [in it],",
+      "bn": "আমরা সমালোচকদের সাথে সমালোচনা করতাম।"
+    },
+    {
+      "number": 5541,
+      "numberInSurah": 46,
+      "juz": 29,
+      "text": "وَكُنَّا نُكَذِّبُ بِيَوْمِ ٱلدِّينِ",
+      "en": "And we used to deny the Day of Recompense",
+      "bn": "এবং আমরা প্রতিফল দিবসকে অস্বীকার করতাম।"
+    },
+    {
+      "number": 5542,
+      "numberInSurah": 47,
+      "juz": 29,
+      "text": "حَتَّىٰٓ أَتَىٰنَا ٱلْيَقِينُ",
+      "en": "Until there came to us the certainty.\"",
+      "bn": "আমাদের মৃত্যু পর্যন্ত।"
+    },
+    {
+      "number": 5543,
+      "numberInSurah": 48,
+      "juz": 29,
+      "text": "فَمَا تَنفَعُهُمْ شَفَٰعَةُ ٱلشَّٰفِعِينَ",
+      "en": "So there will not benefit them the intercession of [any] intercessors.",
+      "bn": "অতএব, সুপারিশকারীদের সুপারিশ তাদের কোন উপকারে আসবে না।"
+    },
+    {
+      "number": 5544,
+      "numberInSurah": 49,
+      "juz": 29,
+      "text": "فَمَا لَهُمْ عَنِ ٱلتَّذْكِرَةِ مُعْرِضِينَ",
+      "en": "Then what is [the matter] with them that they are, from the reminder, turning away",
+      "bn": "তাদের কি হল যে, তারা উপদেশ থেকে মুখ ফিরিয়ে নেয়?"
+    },
+    {
+      "number": 5545,
+      "numberInSurah": 50,
+      "juz": 29,
+      "text": "كَأَنَّهُمْ حُمُرٌۭ مُّسْتَنفِرَةٌۭ",
+      "en": "As if they were alarmed donkeys",
+      "bn": "যেন তারা ইতস্ততঃ বিক্ষিপ্ত গর্দভ।"
+    },
+    {
+      "number": 5546,
+      "numberInSurah": 51,
+      "juz": 29,
+      "text": "فَرَّتْ مِن قَسْوَرَةٍۭ",
+      "en": "Fleeing from a lion?",
+      "bn": "হট্টগোলের কারণে পলায়নপর।"
+    },
+    {
+      "number": 5547,
+      "numberInSurah": 52,
+      "juz": 29,
+      "text": "بَلْ يُرِيدُ كُلُّ ٱمْرِئٍۢ مِّنْهُمْ أَن يُؤْتَىٰ صُحُفًۭا مُّنَشَّرَةًۭ",
+      "en": "Rather, every person among them desires that he would be given scriptures spread about.",
+      "bn": "বরং তাদের প্রত্যেকেই চায় তাদের প্রত্যেককে একটি উম্মুক্ত গ্রন্থ দেয়া হোক।"
+    },
+    {
+      "number": 5548,
+      "numberInSurah": 53,
+      "juz": 29,
+      "text": "كَلَّا ۖ بَل لَّا يَخَافُونَ ٱلْءَاخِرَةَ",
+      "en": "No! But they do not fear the Hereafter.",
+      "bn": "কখনও না, বরং তারা পরকালকে ভয় করে না।"
+    },
+    {
+      "number": 5549,
+      "numberInSurah": 54,
+      "juz": 29,
+      "text": "كَلَّآ إِنَّهُۥ تَذْكِرَةٌۭ",
+      "en": "No! Indeed, the Qur'an is a reminder",
+      "bn": "কখনও না, এটা তো উপদেশ মাত্র।"
+    },
+    {
+      "number": 5550,
+      "numberInSurah": 55,
+      "juz": 29,
+      "text": "فَمَن شَآءَ ذَكَرَهُۥ",
+      "en": "Then whoever wills will remember it.",
+      "bn": "অতএব, যার ইচ্ছা, সে একে স্মরণ করুক।"
+    },
+    {
+      "number": 5551,
+      "numberInSurah": 56,
+      "juz": 29,
+      "text": "وَمَا يَذْكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ هُوَ أَهْلُ ٱلتَّقْوَىٰ وَأَهْلُ ٱلْمَغْفِرَةِ",
+      "en": "And they will not remember except that Allah wills. He is worthy of fear and adequate for [granting] forgiveness.",
+      "bn": "তারা স্মরণ করবে না, কিন্তু যদি আল্লাহ চান। তিনিই ভয়ের যোগ্য এবং ক্ষমার অধিকারী।"
+    }
+  ]
+}
