@@ -1,81 +1,64 @@
-# Al-Quran Web Application
+# Al-Quran Web Application 📖✨
 
-A modern, high-performance Quranic application built with **Next.js 16**, **Hono**, and **Tailwind CSS**. This application offers a premium reading experience with beautiful Arabic typography, multiple translations, and advanced search capabilities.
+A beautifully designed, highly responsive, and feature-rich Quran web application built with **Next.js**, **React**, and **Tailwind CSS**. It provides a seamless experience for reading, listening, and reflecting on the Noble Quran with multiple translations, stunning typography, and a modern UI.
 
-## 🌟 Features
+## 🚀 Features
 
-- **Full Quran Database**: All 114 Surahs with metadata and complete verse content.
-- **Bi-lingual Translations**: Every verse includes both **English (Sahih International)** and **Bengali** translations.
-- **Premium Typography**: High-quality Arabic scripts powered by **Amiri** and **Scheherazade New**.
-- **Persistent Settings**: Customize Arabic/Translation font families and sizes. Settings are saved automatically via `localStorage`.
-- **Fast Search**: Instant search functionality across all verse translations.
-- **SSG Ready**: Static Site Generation for all 114 Surahs ensuring maximum performance and SEO.
-- **Responsive Design**: Fully optimized for Desktop, Tablet, and Mobile devices.
-- **Theme Support**: Dynamic Light and Dark mode support (In Progress).
+- **Decent & Premium UI**: A highly responsive, modern interface featuring **Glassmorphism**, smooth hover effects, radial gradients, and dynamic animations (powered by Framer Motion).
+- **Surah List Page**: Browse all 114 Surahs with their Arabic names, English names, and detailed metadata (Makkah/Madinah revelation, number of Ayats).
+- **Ayat Page (Surah Detail)**: Read through all verses of a selected Surah. Features clean Arabic text and dual translations (English & Bengali).
+- **Advanced Search Functionality**: Search seamlessly for any Surah by its name or number, or search for specific words within the English/Bengali translations.
+- **Customizable Settings Panel (Sidebar)**:
+  - **Arabic Font Selection**: Choose between beautiful Arabic fonts like *Amiri* and *Scheherazade New*.
+  - **Font Size Adjustments**: Sliders to independently adjust the Arabic text size and the Translation text size.
+  - **Persistent Settings**: All your reading preferences are automatically saved to your browser's `localStorage` so they persist across sessions.
+- **Dark/Light Mode**: Full support for system-wide or manually toggled dark and light themes, ensuring a comfortable reading experience at any time of day.
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
-- **Frontend**: [Next.js 16](https://nextjs.org/) (App Router)
-- **Backend**: [Hono](https://hono.dev/) (Node.js API)
-- **Styling**: [Tailwind CSS 4](https://tailwindcss.com/)
-- **Components**: [Radix UI](https://www.radix-ui.com/) & [Lucide React](https://lucide.dev/)
+- **Framework**: [Next.js](https://nextjs.org/) (App Router)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **API**: [Hono](https://hono.dev/) (For lightweight and fast API routing)
 - **Animations**: [Framer Motion](https://www.framer.com/motion/)
-- **Data Source**: Al-Quran Cloud API
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **Fonts**: `next/font/google` for Inter, Amiri, and Scheherazade New.
 
-## 📂 Project Architecture
-
-The application follows a clean separation of concerns:
-
-- `app/`: Contains the Next.js routes and layouts.
-  - `page.tsx`: The Surah gallery/list.
-  - `surah/[id]/page.tsx`: Dynamic reading view (SSG).
-  - `search/page.tsx`: Client-side search interface.
-  - `api/`: Hono-powered API routes for data serving.
-- `components/`: Reusable UI components (Sidebar, Navbar, Cards, etc.).
-- `data/`: Local storage of Quranic JSON data for fast builds and search.
-- `lib/`: Shared utilities, types, and logic providers.
-- `scripts/`: Data fetching and processing utilities.
-
-## 🚀 Getting Started
+## ⚙️ Getting Started
 
 ### Prerequisites
-- Node.js 18+ 
-- npm or pnpm
+Make sure you have **Node.js** (v18 or higher) and **npm** installed on your machine.
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository (or download the source code):
    ```bash
-   git clone <your-repo-link>
-   cd quran-app
+   git clone <repository-url>
+   cd Quran-Web-Application
    ```
 
-2. Install dependencies:
+2. Install the dependencies:
    ```bash
    npm install
    ```
 
-3. Fetch the Quran data:
-   ```bash
-   node scripts/fetch-data.js
-   ```
-
-4. Run the development server:
+3. Run the development server:
    ```bash
    npm run dev
    ```
 
-5. Build for production:
-   ```bash
-   npm run build
-   ```
+4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
-## 📖 How it Works
+## 📂 Project Structure
 
-1. **Data Layer**: The application uses a custom script to pull the entire Quran database into local JSON files. This removes external API latency and allows for full static site generation.
-2. **Backend**: Hono handles the internal API requests for surah lists and searching, providing a lightweight and fast Node.js backend.
-3. **Frontend**: The App Router leverages React Server Components for data fetching and Client Components for interactive elements like the settings sidebar.
-4. **Static Generation**: During the build process, Next.js generates static HTML for all 114 Surahs, providing instantaneous page loads for readers.
+- `/app`: Next.js App Router containing pages (`page.tsx`, `search/page.tsx`, `surah/[id]/page.tsx`) and the Hono API routes (`api/[[...route]]/route.ts`).
+- `/components`: Reusable UI components like `Navbar`, `Sidebar`, `SurahCard`, `AyahItem`, and `SettingsProvider`.
+- `/data`: Contains the JSON data for all Surahs and their respective Ayahs (with translations).
+- `/lib`: TypeScript types and helper functions.
 
----
-Built with ❤️ for the Quran Community.
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
