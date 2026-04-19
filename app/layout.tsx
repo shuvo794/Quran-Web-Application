@@ -39,6 +39,10 @@ export default function RootLayout({
           <SettingsProvider>
             {/* Global Background Decorations */}
             <div className="fixed inset-0 -z-20 overflow-hidden pointer-events-none">
+              {/* Premium Islamic Background Image */}
+              <div 
+                className="absolute inset-0 bg-[url('/images/islamic-bg.png')] bg-cover bg-center opacity-[0.03] dark:opacity-[0.05]" 
+              />
               <div className="absolute -top-[10%] -left-[10%] w-[40%] h-[40%] rounded-full bg-emerald-500/5 dark:bg-emerald-500/10 blur-[120px] animate-pulse" />
               <div className="absolute top-[40%] -right-[10%] w-[35%] h-[35%] rounded-full bg-amber-500/5 dark:bg-amber-500/10 blur-[120px] animate-pulse [animation-delay:2s]" />
               <div className="absolute -bottom-[10%] left-[20%] w-[30%] h-[30%] rounded-full bg-emerald-500/5 dark:bg-emerald-500/10 blur-[120px] animate-pulse [animation-delay:4s]" />
