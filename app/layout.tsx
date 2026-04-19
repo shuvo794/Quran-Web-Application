@@ -37,6 +37,13 @@ export default function RootLayout({
       >
         <ThemeProvider attribute="class" defaultTheme="light" enableSystem>
           <SettingsProvider>
+            {/* Global Background Decorations */}
+            <div className="fixed inset-0 -z-20 overflow-hidden pointer-events-none">
+              <div className="absolute -top-[10%] -left-[10%] w-[40%] h-[40%] rounded-full bg-emerald-500/5 dark:bg-emerald-500/10 blur-[120px] animate-pulse" />
+              <div className="absolute top-[40%] -right-[10%] w-[35%] h-[35%] rounded-full bg-amber-500/5 dark:bg-amber-500/10 blur-[120px] animate-pulse [animation-delay:2s]" />
+              <div className="absolute -bottom-[10%] left-[20%] w-[30%] h-[30%] rounded-full bg-emerald-500/5 dark:bg-emerald-500/10 blur-[120px] animate-pulse [animation-delay:4s]" />
+            </div>
+
             <Navbar />
             <main className="flex-1 overflow-y-auto pt-24">{children}</main>
             <footer className="border-t border-black/5 dark:border-white/5 py-8 px-6 text-center text-black/30 dark:text-white/30 text-sm">

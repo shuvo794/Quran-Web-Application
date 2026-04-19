@@ -35,9 +35,18 @@ export function SurahCard({ surah }: { surah: SurahMetadata }) {
           <h4 className="text-lg md:text-xl font-arabic font-bold text-emerald-600 dark:text-emerald-300 group-hover:scale-105 origin-right transition-transform duration-300">
             {surah.name}
           </h4>
-          <p className="text-[10px] text-slate-400 dark:text-white/40 uppercase tracking-widest mt-1 font-bold">
-            {surah.numberOfAyahs} Ayats
-          </p>
+          <div className="flex flex-col items-end gap-1 mt-2">
+            <p className="text-[10px] text-slate-400 dark:text-white/40 uppercase tracking-widest font-bold">
+              {surah.numberOfAyahs} Ayats
+            </p>
+            <div className={`flex items-center gap-1 px-2 py-0.5 rounded-full text-[9px] font-black uppercase tracking-tighter ${
+              surah.revelationType === 'Meccan' 
+              ? 'bg-amber-100 text-amber-700 dark:bg-amber-900/30 dark:text-amber-400' 
+              : 'bg-emerald-100 text-emerald-700 dark:bg-emerald-900/30 dark:text-emerald-400'
+            }`}>
+              {surah.revelationType}
+            </div>
+          </div>
         </div>
       </Link>
     </motion.div>
