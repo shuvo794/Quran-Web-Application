@@ -14,27 +14,28 @@ export function SurahCard({ surah }: { surah: SurahMetadata }) {
     >
       <Link 
         href={`/surah/${surah.number}`}
-        className="group relative flex items-center gap-4 p-4 md:p-5 rounded-2xl bg-white dark:bg-white/[0.03] border border-black/5 dark:border-white/5 surah-card h-full shadow-sm dark:shadow-none hover:border-emerald-500/30 hover:shadow-md dark:hover:bg-white/[0.05] transition-all"
+        className="group relative flex items-center gap-4 p-4 md:p-5 rounded-3xl bg-white/50 dark:bg-white/[0.02] backdrop-blur-sm border border-slate-200/50 dark:border-white/5 surah-card h-full shadow-[0_4px_20px_-4px_rgba(0,0,0,0.05)] dark:shadow-none hover:border-emerald-500/50 hover:shadow-[0_8px_30px_-4px_rgba(16,185,129,0.15)] dark:hover:bg-white/[0.04] transition-all duration-300"
       >
+        <div className="absolute inset-0 bg-gradient-to-br from-emerald-500/0 to-emerald-500/0 group-hover:from-emerald-500/5 group-hover:to-transparent dark:group-hover:from-emerald-500/10 rounded-3xl transition-all duration-500 pointer-events-none" />
         <div className="relative flex-none w-10 h-10 md:w-12 md:h-12 flex items-center justify-center">
-          <div className="absolute inset-0 bg-emerald-100 dark:bg-emerald-900/40 rounded-xl rotate-45 group-hover:bg-emerald-200 dark:group-hover:bg-emerald-800/60 transition-colors" />
-          <span className="relative text-base md:text-lg font-bold text-emerald-700 dark:text-amber-400">{surah.number}</span>
+          <div className="absolute inset-0 bg-emerald-100/80 dark:bg-emerald-900/40 rounded-2xl rotate-45 group-hover:rotate-90 group-hover:scale-110 group-hover:bg-emerald-200 dark:group-hover:bg-emerald-800/60 transition-all duration-500" />
+          <span className="relative text-base md:text-lg font-bold text-emerald-700 dark:text-amber-400 group-hover:scale-110 transition-transform duration-300">{surah.number}</span>
         </div>
         
-        <div className="flex-1 min-w-0">
-          <h3 className="text-base md:text-lg font-bold text-black dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors truncate">
+        <div className="flex-1 min-w-0 z-10">
+          <h3 className="text-base md:text-lg font-bold text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors truncate">
             {surah.englishName}
           </h3>
-          <p className="text-xs md:text-sm text-black/50 dark:text-white/50 truncate">
+          <p className="text-xs md:text-sm text-slate-500 dark:text-white/50 truncate font-medium">
             {surah.englishNameTranslation}
           </p>
         </div>
 
-        <div className="flex-none text-right">
-          <h4 className="text-lg md:text-xl font-arabic font-bold text-emerald-600 dark:text-emerald-300">
+        <div className="flex-none text-right z-10">
+          <h4 className="text-lg md:text-xl font-arabic font-bold text-emerald-600 dark:text-emerald-300 group-hover:scale-105 origin-right transition-transform duration-300">
             {surah.name}
           </h4>
-          <p className="text-[10px] text-black/40 dark:text-white/40 uppercase tracking-tighter mt-1">
+          <p className="text-[10px] text-slate-400 dark:text-white/40 uppercase tracking-widest mt-1 font-bold">
             {surah.numberOfAyahs} Ayats
           </p>
         </div>

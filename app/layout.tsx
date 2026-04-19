@@ -38,7 +38,7 @@ export default function RootLayout({
         <ThemeProvider attribute="class" defaultTheme="light" enableSystem>
           <SettingsProvider>
             <Navbar />
-            <main className="flex-1 overflow-y-auto">{children}</main>
+            <main className="flex-1 overflow-y-auto pt-24">{children}</main>
             <footer className="border-t border-black/5 dark:border-white/5 py-8 px-6 text-center text-black/30 dark:text-white/30 text-sm">
               <p>
                 © {new Date().getFullYear()} Al-Quran Application | Built with

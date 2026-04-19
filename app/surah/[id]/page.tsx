@@ -21,8 +21,9 @@ export default async function SurahPage({ params }: { params: Promise<{ id: stri
   return (
     <div className="min-h-screen">
       {/* Surah Hero Header */}
-      <header className="relative py-20 bg-emerald-50 dark:bg-emerald-950/20 border-b border-black/5 dark:border-white/5 overflow-hidden transition-colors">
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,_rgba(16,185,129,0.05)_0%,_transparent_70%)] dark:bg-[radial-gradient(circle_at_center,_rgba(6,78,59,0.1)_0%,_transparent_70%)]" />
+      <header className="relative py-16 md:py-24 bg-gradient-to-b from-emerald-50/50 to-transparent dark:from-emerald-950/20 dark:to-transparent border-b border-black/5 dark:border-white/5 overflow-hidden transition-colors">
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,_rgba(16,185,129,0.1)_0%,_transparent_50%)] dark:bg-[radial-gradient(circle_at_top_right,_rgba(16,185,129,0.15)_0%,_transparent_50%)]" />
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_bottom_left,_rgba(245,158,11,0.05)_0%,_transparent_50%)] dark:bg-[radial-gradient(circle_at_bottom_left,_rgba(245,158,11,0.05)_0%,_transparent_50%)]" />
         
         <div className="max-w-4xl mx-auto px-6 relative z-10">
           <Link 
@@ -59,7 +60,7 @@ export default async function SurahPage({ params }: { params: Promise<{ id: stri
 
       {/* Bismillah Section (Unless Surah 9 or Surah 1) */}
       {surah.number !== 1 && surah.number !== 9 && (
-        <div className="py-12 text-center text-4xl md:text-5xl font-arabic text-emerald-100/40">
+        <div className="py-10 md:py-16 text-center text-3xl md:text-5xl font-arabic text-emerald-800/60 dark:text-emerald-100/40 tracking-wider">
           بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
         </div>
       )}
@@ -74,22 +75,26 @@ export default async function SurahPage({ params }: { params: Promise<{ id: stri
       </section>
 
       {/* Navigation Footer */}
-      <div className="max-w-4xl mx-auto px-6 py-12 border-t border-white/5 flex justify-between">
+      <div className="max-w-4xl mx-auto px-6 py-12 border-t border-black/5 dark:border-white/5 flex justify-between">
         {surah.number > 1 && (
           <Link 
             href={`/surah/${surah.number - 1}`}
-            className="flex items-center gap-2 text-white/50 hover:text-amber-400 transition-colors"
+            className="flex items-center gap-2 text-black/50 dark:text-white/50 hover:text-emerald-600 dark:hover:text-amber-400 transition-colors group font-medium"
           >
-            <ArrowLeft className="w-4 h-4" /> Previous Surah
+            <ArrowLeft className="w-5 h-5 group-hover:-translate-x-1 transition-transform" /> 
+            <span className="hidden sm:inline">Previous Surah</span>
+            <span className="sm:hidden">Prev</span>
           </Link>
         )}
-        <div />
+        <div className="flex-1" />
         {surah.number < 114 && (
           <Link 
             href={`/surah/${surah.number + 1}`}
-            className="flex items-center gap-2 text-white/50 hover:text-amber-400 transition-colors"
+            className="flex items-center gap-2 text-black/50 dark:text-white/50 hover:text-emerald-600 dark:hover:text-amber-400 transition-colors group font-medium"
           >
-            Next Surah <ArrowLeft className="w-4 h-4 rotate-180" />
+            <span className="hidden sm:inline">Next Surah</span>
+            <span className="sm:hidden">Next</span>
+            <ArrowLeft className="w-5 h-5 rotate-180 group-hover:translate-x-1 transition-transform" />
           </Link>
         )}
       </div>
