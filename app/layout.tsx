@@ -35,7 +35,7 @@ export default function RootLayout({
       <body
         className={`${inter.className} ${amiri.variable} ${scheherazade.variable} min-h-screen bg-white dark:bg-black text-black dark:text-white transition-colors duration-300 flex flex-col`}
       >
-        <ThemeProvider attribute="class" defaultTheme="dark" enableSystem>
+        <ThemeProvider attribute="class" defaultTheme="light" enableSystem>
           <SettingsProvider>
             <Navbar />
             <main className="flex-1 overflow-y-auto">{children}</main>
